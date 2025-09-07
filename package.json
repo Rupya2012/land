@@ -14,7 +14,7 @@
     "dat.gui": "^0.7.9",
     "framer-motion": "^12.23.12",
     "gltf-validator": "^2.0.0-dev.3.10",
-    "next": "15.4.6",
+    "next": "^15.5.2",
     "query-string": "^9.2.2",
     "react": "19.1.0",
     "react-dom": "19.1.0",
