@@ -1,0 +1,12 @@
+#miCanvas {
+	display: block !important;
+	position: fixed;
+	width: 100vw;
+	height: 100vh;
+	left: 0;
+	top: 0;
+	overflow: hidden;
+	background-color: black;
+	z-index: -1 !important; /* Behind the 3D model */
+	pointer-events: none;
+}

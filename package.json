@@ -1,0 +1,30 @@
+{
+  "name": "3d_model",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^10.7.4",
+    "@react-three/fiber": "^9.3.0",
+    "dat.gui": "^0.7.9",
+    "framer-motion": "^12.23.12",
+    "gltf-validator": "^2.0.0-dev.3.10",
+    "next": "15.4.6",
+    "query-string": "^9.2.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "simple-dropzone": "^0.8.3",
+    "three": "^0.179.1",
+    "vhtml": "^2.2.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.6"
+  }
+}
